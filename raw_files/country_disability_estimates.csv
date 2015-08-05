@@ -1,0 +1,12 @@
+Continent,Country ,Survey_Year,Disability_Perc,Source
+N. Amer,USA,'10,0.186,http://www.census.gov/people/disability/publications/disab10/table_1.pdf
+S. Amer,Brazil,'10,0.239,http://www.cdc.gov/nchs/ppt/citygroup/meeting12/WG12_Session6_5_Borges.pdf
+Eur,UK,'11,0.179,http://www.ons.gov.uk/ons/dcp171776_296743.pdf
+Eur,Germany,'13,0.13,https://www.destatis.de/EN/FactsFigures/SocietyState/Health/DisabledPersons/Current.html
+Afr,South Africa,'11,0.075,http://beta2.statssa.gov.za/publications/Report-03-01-59/Report-03-01-592011.pdf
+Aus,Australia,'12,0.185,http://www.abs.gov.au/ausstats/abs@.nsf/PrimaryMainFeatures/4430.0?OpenDocument
+E. Asia,Japan,'96,0.043,http://www.dinf.ne.jp/doc/english/asia/resource/z00ap/003/z00ap00309.html
+E. Asia,China,'06,0.0639,https://en.wikipedia.org/wiki/Disability_in_China
+SE. Asia,Pakistan,'12,0.0254,http://hhrd.pk/crp/wp-content/uploads/2013/02/PWDs-Statistics-in-Pakistan-2012-2.pdf
+SE. Asia,Bangladesh,'10,0.09,http://desibility.org/statistics/
+India,India,'11,0.0221,https://sasikums.shinyapps.io/Disab_India
